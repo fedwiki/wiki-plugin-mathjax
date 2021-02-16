@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-mathjax",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Federated Wiki - MathJax Plug-in",
   "keywords": [
     "wiki",
